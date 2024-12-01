@@ -1,2 +1,2 @@
 #This is a spotify clone
-created by suraj oswal
+created by suraj oswal.
